@@ -1,6 +1,10 @@
-.main-page {
+.main-page.header {
     color: #57513D;
     text-align: center;
     background-color: #B5D6F1;
+}
+
+.main-page.list {
+    text-align: center;
 }
 
