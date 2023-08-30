@@ -1,5 +1,4 @@
 .main-page.header {
-    color: #57513D;
     text-align: center;
     background-color: #B5D6F1;
 }
@@ -8,3 +7,10 @@
     text-align: center;
 }
 
+.header {
+    color: #57513D;
+}
+
+.page {
+    background: #FEF49D;
+}
